@@ -28,8 +28,8 @@
 
 ## 📬 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin)
-- [Email](mailto:tu-correo@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/dario-sanabria-732909371/-linkedin)
+- [Email](mailto:sanajani410@gmail.com)
 
 ---
 
