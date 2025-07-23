@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Dario Sanabria
 
-🎯 **Técnico en Servicios Hospitalarios** con más de 5 años de experiencia en el área de servicios del Hospital Dr. Castilla Mira de Viale. Actualmente me encuentro en proceso de reconversión profesional al mundo del desarrollo y la tecnología.
+🎯 **Técnico en Seguridad Publica** con más de 5 años de experiencia en el área de servicios de seguridad pulica de Entre Rios. Actualmente me encuentro en proceso de reconversión profesional al mundo del desarrollo y la tecnología.
 
 💻 **Desarrollador en formación** con conocimientos en:
 - Python (automatización, scripts, watchdog)
