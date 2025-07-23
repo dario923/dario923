@@ -8,6 +8,7 @@
 - MySQL & XAMPP (bases de datos locales)
 - Salesforce (Trailhead, Flows, Apex, Integraciones)
 - Git y GitHub (versionado y colaboración)
+- (https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ---
 
