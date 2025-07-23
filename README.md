@@ -31,6 +31,8 @@
 - [LinkedIn](https://www.linkedin.com/in/dario-sanabria-732909371/-linkedin)
 - [Email](mailto:sanajani410@gmail.com)
 
+-[Email](https://mail.google.com/mail/sanajani410@gmail.com)
+
 ---
 
 ## 📊 Estadísticas de GitHub
