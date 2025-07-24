@@ -1,5 +1,3 @@
-
----Sociales---
 # 💫 About Me:
 Hola! Soy Dario Sanabria<br>🎯 Técnico en Seguridad Publica con más de 5 años de experiencia en el área de servicios de seguridad publica de Entre Rios. Actualmente me encuentro en proceso de reconversión profesional al mundo del desarrollo y la tecnología.<br><br>💻 Desarrollador en formación con conocimientos en:<br><br>Python (automatización, scripts, watchdog)<br>JavaScript & React (apps web)<br>MySQL & XAMPP (bases de datos locales)<br>Salesforce (Trailhead, Flows, Apex, Integraciones)<br>Git y GitHub (versionado y colaboración)<br>🛠 Habilidades Clave<br>Pensamiento lógico y resolución de problemas<br>Comunicación efectiva y trabajo en equipo<br>Aprendizaje autónomo y compromiso<br>Flujo de trabajo ágil con herramientas como Trello, Notion, Slack y Jira<br>🎯 En qué estoy trabajando ahora<br>🔄 Actualmente participo en proyectos de desarrollo de aplicaciones con React y automatización de tareas con Python, mientras profundizo en herramientas de la plataforma Salesforce (Flow Builder, Apex, DevOps, Named Credentials).<br><br>📬 Contacto<br>LinkedIn<br>Email<br>📊 Estadísticas de GitHub<br>Dario's GitHub Stats Top Langs<br><br>🧠 Frase motivadora<br>"No hay viento favorable para el que no sabe a dónde va." – Séneca<br><br>GIF de programando
 
@@ -19,11 +17,11 @@ Hola! Soy Dario Sanabria<br>🎯 Técnico en Seguridad Publica con más de 5 añ
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dario sanabria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+<!-- 
 [![](https://visitcount.itsvg.in/api?id=dario sanabria&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----Sociales---
 
 ## 🧠 Frase motivadora
 
