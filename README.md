@@ -32,6 +32,14 @@
 - [Email](sanajani410@gmail.com)
 
 ---
+🌐 Sociales:
+LinkedIn correo electrónico
+
+Pila de tecnología:
+JavaScript Pitón HTML5 Java PHP Primavera apache MySQL Adobe Photoshop Adobe Illustrator GitHub Git
+
+📊 Estadísticas de GitHub:
+---
 
 ## 📊 Estadísticas de GitHub
 
